@@ -1,0 +1,4 @@
+requests>=2.28.0
+pycurl>=7.45.1
+pysocks>=1.7.1
+socksio>=1.0.0
